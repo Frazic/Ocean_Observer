@@ -1,0 +1,15 @@
+SOAP REQUEST EXAMPLE
+http://www.emodnet-physics.eu/map/service/WSEmodnet2.asmx?op=GetAllLatestData60Days
+Replace int with plateform number
+
+Simple SOAP REQUEST
+https://stackoverflow.com/questions/124269/simplest-soap-example
+
+Marine and Weather APIs
+https://www.programmableweb.com/category/marine/api
+
+Data for Dieppe platform
+http://www.emodnet-physics.eu/map/service/WSEmodnet2.aspx?q=GetAllLatestData60Days&PlatformID=978456
+
+XML to JSON
+https://stackoverflow.com/a/53965331/6208315
