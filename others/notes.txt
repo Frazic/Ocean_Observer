@@ -13,3 +13,6 @@ http://www.emodnet-physics.eu/map/service/WSEmodnet2.aspx?q=GetAllLatestData60Da
 
 XML to JSON
 https://stackoverflow.com/a/53965331/6208315
+
+Coding train
+https://www.youtube.com/watch?v=ZtLVbJk7KcM&t=721s
